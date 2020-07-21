@@ -7,7 +7,7 @@ Images are custom. Confidential information is not displayed.
 Please download the executable in https://github.com/alpaddesai/Entrepreneurship/releases for details.
 
 ## Business Plan Process
-![image](BusinessPlanProcess.jpg)
+![image](BusinessPlanningProcess.jpg)
 
 ## Planning Process
 ![image](BusinessPlanningProcess.png)
