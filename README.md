@@ -10,7 +10,10 @@ Please download the executable in https://github.com/alpaddesai/Entrepreneurship
 ![image](BusinessPlanProcess.jpg)
 
 ## Planning Process
-![image](BusinessPlanningProcess.jpg)
+![image](BusinessPlanningProcess.png)
 
 ## Business Plan 
-![image](BusinessPlan.jpg)
+![image](BusinessPlan.png)
+
+## Earths Organic 
+![image](EarthsOrganicHainCelestialGroup.png)
