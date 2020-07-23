@@ -10,7 +10,7 @@ Please download the executable in https://github.com/alpaddesai/Entrepreneurship
 ![image](BusinessPlanningProcess.png)
 
 ## Planning Process
-![image](BusinessPlanningProcess.png)
+![image](CompetitiveAdvantage.png)
 
 ## Business Plan 
 ![image](PlanningProcess.png)
