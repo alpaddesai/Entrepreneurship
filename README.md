@@ -17,3 +17,5 @@ Please download the executable in https://github.com/alpaddesai/Entrepreneurship
 
 ## Earths Organic 
 ![image](EarthsOrganicHainCelestialGroup.png)
+
+Advanced knowledge : https://github.com/alpaddesai/BusinessLaw
