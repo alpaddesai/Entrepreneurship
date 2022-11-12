@@ -20,6 +20,6 @@ Please download the executable in https://github.com/alpaddesai/Entrepreneurship
 
 ![image](USCopyrightCertificate.png)
 
-![imaged](Ethics.jpg)
+![image](Ethics.jpg)
 
 Advanced knowledge : https://github.com/alpaddesai/BusinessLaw
