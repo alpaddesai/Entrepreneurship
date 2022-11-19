@@ -19,7 +19,7 @@ Please download the executable in https://github.com/alpaddesai/Entrepreneurship
 ![image](EarthsOrganicHainCelestialGroup.png)
 
 ## CFA exam
-![image]()
+![image](CFAExam.jpg)
 
 ![image](USCopyrightCertificate.png)
 
