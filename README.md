@@ -18,6 +18,9 @@ Please download the executable in https://github.com/alpaddesai/Entrepreneurship
 ## Earths Organic 
 ![image](EarthsOrganicHainCelestialGroup.png)
 
+## CFA exam
+![image]()
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
