@@ -22,4 +22,4 @@ Please download the executable in https://github.com/alpaddesai/Entrepreneurship
 
 ![image](Ethics.jpg)
 
-Advanced knowledge : https://github.com/alpaddesai/BusinessLaw
+Advanced knowledge : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
